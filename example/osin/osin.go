@@ -4,8 +4,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/RangelReale/osincli"
 	"net/http"
+
+	"github.com/euskadi31/osincli"
 )
 
 func main() {
